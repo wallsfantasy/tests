@@ -1,12 +1,11 @@
 ## NodeJS Programming Task
-In order to be considered for the NodeJS position, you must complete the following steps.
 
-*Note: This task should take no longer than 1-2 hours at the most.*
+This task should take no longer than 1-2 hours at the most.*
 
 
 ### Prerequisites
 
-- Please note that this will require some basic [JavaScript]and [ExpressJS] knowledge.
+- Please note that this will require some [JavaScript]and [ExpressJS] knowledge.
 
 - You will need to have [NodeJS] installed to complete this task.
 
