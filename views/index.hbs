@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Commits</title>
+</head>
+<body>
+
+{{#each data}}
+    {{#if highlight}}
+        <span style="BACKGROUND-COLOR:{{highlight}}">{{hash}} | {{login}} | {{email}} | {{name}}</span><br>
+    {{else}}
+        {{hash}} | {{login}} | {{email}} | {{name}}<br>
+    {{/if}}
+{{/each}}
+
+</body>
+</html>
